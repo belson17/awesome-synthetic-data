@@ -45,6 +45,7 @@ Also, a listed repository should be deprecated if:
 Introductions and Guides to Synthetic Data
 
 Blogs and Newsletters
+* [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - Andrej Karpathy's intro to RNNs.
 
 Videos and Online Courses
 
@@ -91,6 +92,7 @@ Open Source Generative Synthetic Data Models, Libraries and Frameworks | [Back t
 
 ## Services
 Synthetic Data as API with higher level functionality such model training, fine-tuning, and generation | [Back to Top](#contents)
+* [List of Synthetic Data Startups in 2021](https://elise-deux.medium.com/the-list-of-synthetic-data-companies-2021-5aa246265b42) - Not all of these necessarily have APIs. 
 
 ## Prominent Synthetic Data Research Labs
 [Back to Top](#contents)
